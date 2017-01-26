@@ -154,11 +154,11 @@ span:nth-child(1){color:black;transform: translate3d(0, 0, 30px);-webkit-transfo
 span:nth-child(2){color:black;background:white;transform: rotateX(90deg) translate3d(0, 0, 30px);-webkit-transform: rotateX(90deg) translate3d(0, 0, 30px);}
 .hoverbutton {
   margin-top:90px;
-  margin-left:auto;
-  margin-right:auto;
   z-index:-1;
-  position:relative;
-  left:70%;
+  width:280px;
+ margin-right:auto;
+  margin-left:auto;
+  
 }
 .hoverbutton a {
   text-decoration:none;
