@@ -79,7 +79,7 @@ body {
 }
 
 #calendar .days li {
-	height: 180px;
+	height: 220px;
 }
 
 #calendar .days li:hover {
